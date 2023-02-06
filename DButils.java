@@ -1,0 +1,6 @@
+This line adding fore git statsh...
+Hello guys...!
+Welcome to java classs...
+I'm updating the file.
+I am developing line in development branch
+This line is in master brach
